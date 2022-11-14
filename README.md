@@ -23,5 +23,5 @@ $v(t+\Delta t) = v(t) + \frac{1}{2}[a(t)+a(t+\Delta t)] \Delta t$
 | Total number of steps<br />in event: *Mitosis* | 50 timesteps  |
 | Total number of steps<br />in event: *Apoptosis* | 25 timesteps  |
 
-![Alt Text]([[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://giphy.com/gifs/theoffice-the-office-tv-casual-friday-SZQBPO4NqHkh6wmdXk)](https://giphy.com/gifs/theoffice-the-office-tv-casual-friday-SZQBPO4NqHkh6wmdXk))
+<iframe src="https://giphy.com/embed/SZQBPO4NqHkh6wmdXk" width="480" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/theoffice-the-office-tv-casual-friday-SZQBPO4NqHkh6wmdXk">via GIPHY</a></p>
 
