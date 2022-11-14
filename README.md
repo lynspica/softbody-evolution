@@ -22,3 +22,6 @@ $v(t+\Delta t) = v(t) + \frac{1}{2}[a(t)+a(t+\Delta t)] \Delta t$
 | Momentum loss in event:<br />*Division* | 1 (elastic)  |
 | Total number of steps<br />in event: *Mitosis* | 50 timesteps  |
 | Total number of steps<br />in event: *Apoptosis* | 25 timesteps  |
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
