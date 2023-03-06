@@ -1,5 +1,5 @@
 # Modelling the growth of a soft-body system from a single cell and temporal adaptation to the environment
-# Written by: Ahmet Burak Yıldırım, 2017
+# Written by: Ahmet Burak Yıldırım, 2021
 #
 # To run this program, please run the cells in order
 # The order is given by the numbers in the explanation of each cell
